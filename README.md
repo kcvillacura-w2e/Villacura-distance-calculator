@@ -33,3 +33,8 @@ distance = math.sqrt(math.pow(x2 - x1, 2) + math.pow(y2 - y1, 2))
 
 ## Step 5: Display the result rounded to two decimal places
 print(f"The distance between Manila and Cebu is: {distance:.2f}")
+
+
+## Author
+Name: Kirzy C. Villacura
+Section: 8-Molave
